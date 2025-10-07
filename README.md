@@ -20,13 +20,13 @@ Designed with a **minimal, modern UI** for smooth navigation and interactivity.
 ---
 
 ## 👤 Author  
-**~ Naveen**  
+**~ Adithya**  
 
 <p>
-  <a href="mailto:nawink354@gmail.com">
+  <a href="mailto:adithyakaluvala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/kethavath-naveen-423995377/">
+  <a href="https://www.linkedin.com/in/adithya-kaluvala-83b9392b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
