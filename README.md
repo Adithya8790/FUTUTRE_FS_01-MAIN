@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio Website  
 ### _"Showcasing my journey, skills, and projects."_  
 
-A responsive **portfolio website** built to highlight my education, skills, projects, and career goals.  
+A responsive **portfolio website** built to highlight my education, skills,projects, and career goals.  
 Designed with a **minimal, modern UI** for smooth navigation and interactivity.  
 
 ---
